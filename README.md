@@ -6,8 +6,7 @@
                 <b><a target="_blank" href="https://jegan jack.com">Jegan K</a></b>
         </samp>
 </h3>
-<p><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-</p>
+
 
 <p align="center"> 
   <samp>
@@ -15,10 +14,11 @@
     <br>
     「 I am a full stack web application developer from <b>Coimbatore</b> 」
     <br>
-    <br>
+
   </samp>
 </p>
-
+<p><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</p>
 <p align="center">
  <a href="https://linkedin.com/in/jegan-karthi-33191b201" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
