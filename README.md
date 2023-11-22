@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JegankarthiMCA&label=Profile%20views&color=0e75b6&style=flat" alt="JegankarthiMCA" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JegankarthiMCA&label=Profile%20views&&color=green&style=flat" alt="JegankarthiMCA" /> </p>
 
 <!-- Intro  -->
 
