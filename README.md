@@ -1,4 +1,4 @@
-
+[![Image of my-profile-views-counter](https://github.com/JegankarthiMCA/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/JegankarthiMCA/my-profile-views-counter/blob/master/readme/372372861/week.md)
 <!-- Intro  -->
 
 <h3 align="center">
