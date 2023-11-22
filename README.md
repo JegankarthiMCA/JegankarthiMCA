@@ -1,6 +1,8 @@
 
 <!-- Intro  -->
-<h3 align="center">
+- Action Packed
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br><h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://jegan jack.com">Jegan K</a></b>
         </samp>
