@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?JegankarthiMCA=[your-github-username](https://github.com/JegankarthiMCA)&color=green)
+![](https://komarev.com/ghpvc/?JegankarthiMCA=JegankarthiMCA)&color=green)
 <!-- Intro  -->
 
 <h3 align="center">
