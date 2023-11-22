@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/jegan-karthi-33191b201" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
@@ -70,19 +70,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JegankarthiMCA/web-projects)
-[![JegankarthiMCA Folio](https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JegankarthiMCA/al-folio)
-[![JegankarthiMCA Readme](https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JegankarthiMCA/alsiam)
-[![JegankarthiMCA Teminal](https://github-readme-stats.vercel.app/api/pin/?username=JegankarthiMCA&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/JegankarthiMCA/JegankarthiMCA.github.io)
-
-<p align="left">
-  <a href="https://github.com/JegankarthiMCA?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
 <br/>
 
