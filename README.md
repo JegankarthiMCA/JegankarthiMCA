@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/JegankarthiMCA)
+![](https://komarev.com/ghpvc/?JegankarthiMCA=[your-github-username](https://github.com/JegankarthiMCA)&color=green)
 <!-- Intro  -->
 
 <h3 align="center">
